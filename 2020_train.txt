@@ -1,0 +1,219 @@
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/033.jpg 6,29,75,114,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b001.jpg 93,96,150,172,0 174,103,220,170,0 466,101,500,160,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b002.jpg 242,50,291,138,0 383,30,446,132,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b003.jpg 87,31,158,127,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b004.jpg 191,43,321,235,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b005.jpg 196,63,256,144,0 322,56,367,137,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b008.jpg 252,82,379,232,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b009.jpg 111,36,242,199,0 232,19,362,168,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b011.jpg 41,30,278,360,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b013.jpg 229,20,298,115,0 375,18,443,106,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b014.jpg 319,43,356,99,0 119,105,168,161,0 237,161,279,211,0 310,169,362,227,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b015.jpg 330,18,429,132,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b017.jpg 100,21,201,199,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b018.jpg 185,13,399,273,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b019.jpg 176,12,427,276,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b021.jpg 68,13,272,347,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b022.jpg 157,6,350,350,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b023.jpg 205,21,327,293,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b025.jpg 90,57,215,231,0 286,32,418,211,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b026.jpg 191,95,283,205,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b028.jpg 198,34,269,152,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b029.jpg 38,39,500,577,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b030.jpg 42,29,448,545,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b031.jpg 172,146,329,306,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b032.jpg 56,31,145,157,0 285,17,370,147,0 50,239,151,381,0 281,244,384,376,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b033.jpg 73,2,211,163,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b034.jpg 33,9,500,495,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b036.jpg 50,1,209,249,0 298,8,463,236,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b037.jpg 151,46,406,346,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b038.jpg 9,9,422,421,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b039.jpg 84,80,170,192,0 227,65,288,146,0 363,1,418,67,0 415,105,492,183,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b041.jpg 1,1,434,464,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b042.jpg 94,26,312,260,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b043.jpg 180,8,399,276,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b044.jpg 116,18,294,289,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b045.jpg 212,19,454,316,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b046.jpg 92,4,377,373,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b050.jpg 136,26,334,282,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b051.jpg 36,39,481,837,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b053.jpg 9,7,495,324,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b057.jpg 81,108,116,143,0 122,84,161,144,0 175,80,210,131,0 220,75,259,141,0 272,76,323,135,0 339,92,375,143,0 380,99,404,152,0 413,104,454,170,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b058.jpg 45,11,376,323,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b059.jpg 661,518,741,614,0 120,525,216,630,0 330,458,358,494,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b060.jpg 90,83,222,238,0 321,64,465,229,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b061.jpg 25,1,495,429,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b062.jpg 25,9,438,477,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b065.jpg 276,13,416,190,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b066.jpg 5,5,231,274,0 266,3,498,303,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b069.jpg 358,90,449,228,0 174,33,322,240,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b070.jpg 111,26,323,322,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b071.jpg 125,6,328,307,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b072.jpg 154,53,277,188,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b074.jpg 67,2,187,184,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b075.jpg 167,87,341,312,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b078.jpg 104,71,384,211,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b079.jpg 123,14,337,304,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b080.jpg 101,148,355,426,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b081.jpg 318,92,345,140,0 333,161,362,214,0 384,114,410,158,0 396,172,426,212,0 401,99,438,139,0 442,141,475,196,0 539,12,560,50,0 540,62,569,98,0 570,7,598,23,0 571,98,603,145,0 534,101,566,159,0 573,16,595,60,0 603,61,619,100,0 340,11,364,50,0 349,43,370,81,0 370,55,393,99,0 427,38,462,79,0 473,71,498,113,0 476,10,507,48,0 209,151,241,195,0 224,91,257,127,0 241,117,270,148,0 250,133,280,174,0 148,45,173,85,0 187,13,214,45,0 229,29,251,64,0 263,35,286,73,0 282,17,308,47,0 299,36,320,74,0 130,90,163,127,0 135,119,162,156,0 154,179,193,217,0 192,78,215,114,0 22,64,55,102,0 36,15,61,43,0 70,95,97,136,0 93,20,114,52,0 81,38,106,79,0 1,159,24,205,0 35,169,73,217,0 499,94,527,152,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b082.jpg 271,77,301,109,0 302,86,319,114,0 367,78,399,116,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b084.jpg 67,4,149,89,0 179,95,227,156,0 254,128,319,183,0 322,159,355,208,0 357,179,376,217,0 367,156,391,191,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b085.jpg 34,20,91,100,0 237,17,283,78,0 367,34,416,84,0 163,52,189,92,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b086.jpg 402,195,426,228,0 384,174,400,199,0 436,174,452,196,0 362,171,377,196,0 410,170,427,191,0 178,198,207,226,0 178,168,194,189,0 192,180,210,201,0 215,197,239,237,0 230,178,248,210,0 249,169,267,195,0 429,289,472,330,0 372,250,419,295,0 405,237,439,270,0 369,209,395,247,0 482,216,500,246,0 429,207,464,245,0 290,251,325,306,0 300,219,326,255,0 314,241,339,277,0 336,224,362,269,0 349,186,367,218,0 326,190,347,221,0 304,180,325,209,0 274,183,304,217,0 107,194,139,227,0 120,175,137,198,0 151,171,168,196,0 161,184,182,216,0 126,165,142,183,0 139,231,166,271,0 188,224,208,255,0 220,256,247,305,0 238,269,286,331,0 259,225,292,272,0 0,129,24,184,0 9,125,47,168,0 24,179,67,236,0 39,214,98,292,0 83,173,101,189,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b090.jpg 15,17,165,191,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b095.jpg 38,57,74,104,0 92,53,118,101,0 132,53,160,101,0 171,63,199,103,0 223,52,252,102,0 294,88,307,114,0 315,109,333,136,0 352,62,384,106,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b096.jpg 222,21,270,84,0 367,50,411,128,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b099.jpg 23,157,62,206,0 160,164,206,207,0 312,179,332,207,0 341,164,367,199,0 409,164,437,211,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b101.jpg 406,277,438,333,0 458,317,497,365,0 501,195,531,227,0 526,267,563,303,0 559,265,593,305,0 451,115,485,157,0 45,169,77,203,0 126,317,173,375,0 152,257,183,305,0 268,313,303,369,0 290,93,361,193,0 311,345,349,395,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b102.jpg 32,76,95,161,0 135,99,222,178,0 293,86,344,158,0 344,60,447,161,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b103.jpg 68,81,116,153,0 111,72,151,144,0 292,89,339,172,0 369,75,434,157,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b105.jpg 34,26,73,74,0 133,30,165,68,0 211,16,247,58,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b106.jpg 12,85,47,141,0 65,77,104,149,0 123,76,171,137,0 177,67,226,164,0 242,66,284,146,0 296,65,326,126,0 355,85,376,136,0 389,65,424,136,0 459,81,498,146,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b107.jpg 101,103,150,188,0 190,91,240,159,0 257,89,315,188,0 308,46,464,241,0 53,188,138,290,0 150,143,221,237,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b108.jpg 179,303,254,409,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b109.jpg 183,104,248,208,0 305,110,382,214,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b110.jpg 254,59,300,117,0 383,117,442,181,0 135,91,164,140,0 199,77,229,117,0 45,136,102,214,0 17,86,74,146,0 2,132,30,254,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b111.jpg 128,22,202,124,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b112.jpg 158,35,238,145,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b113.jpg 25,76,105,184,0 151,67,203,148,0 264,49,310,136,0 394,19,483,154,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b117.jpg 234,1,394,139,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b118.jpg 53,6,386,513,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b120.jpg 100,56,249,246,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b121.jpg 24,170,55,233,0 62,169,105,226,0 191,192,229,259,0 277,152,320,213,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b122.jpg 46,151,121,250,0 108,131,154,194,0 173,92,252,188,0 301,127,341,178,0 360,161,418,237,0 416,57,500,245,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b123.jpg 178,29,236,85,0 355,97,373,116,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b124.jpg 22,9,89,106,0 131,9,205,115,0 251,12,309,97,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b125.jpg 89,73,171,177,0 223,100,281,221,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b127.jpg 170,2,388,171,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b129.jpg 254,10,304,98,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b131.jpg 173,19,314,169,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b132.jpg 53,32,249,161,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b133.jpg 164,60,327,293,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b135.jpg 180,34,220,88,0 236,60,298,133,0 156,161,207,203,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b136.jpg 79,36,144,114,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b137.jpg 208,34,290,142,0 280,14,344,93,0 64,171,119,243,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b138.jpg 86,12,204,125,0 197,16,265,119,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b139.jpg 88,15,220,221,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b140.jpg 68,32,104,78,0 43,74,94,136,0 189,38,261,114,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b141.jpg 204,12,301,184,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b143.jpg 118,64,167,130,0 217,83,284,167,0 34,135,79,186,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b144.jpg 288,30,460,249,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/b150.jpg 81,95,349,452,0
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d001.jpg 202,5,687,433,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d002.jpg 56,82,168,204,1 140,30,247,133,1 259,26,342,134,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d003.jpg 80,14,376,315,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d005.jpg 34,4,196,196,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d007.jpg 66,2,144,69,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d008.jpg 39,19,136,160,1 191,2,310,160,1 337,19,415,150,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d012.jpg 33,12,148,137,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d013.jpg 107,70,204,262,1 291,39,423,273,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d014.jpg 168,75,277,201,1 342,43,459,202,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d015.jpg 34,17,265,341,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d018.jpg 84,1,373,262,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d019.jpg 44,18,272,292,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d020.jpg 84,97,192,229,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d021.jpg 64,7,194,180,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d023.jpg 158,53,260,197,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d024.jpg 163,57,309,271,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d026.jpg 208,42,349,238,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d028.jpg 33,1,141,128,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d029.jpg 184,22,322,197,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d030.jpg 45,29,86,72,1 190,40,209,73,1 245,15,294,102,1 308,25,358,100,1 393,30,427,86,1 409,53,454,140,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d031.jpg 78,45,120,84,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d034.jpg 161,5,309,148,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d035.jpg 195,5,305,139,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d036.jpg 46,6,212,196,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d037.jpg 36,31,135,187,1 142,21,253,180,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d038.jpg 256,58,343,193,0 1,159,87,290,0 92,21,228,234,1 353,51,450,185,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d039.jpg 51,7,230,219,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d041.jpg 83,50,139,116,1 118,87,154,153,1 144,74,206,148,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d042.jpg 34,11,234,245,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d044.jpg 228,54,276,112,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d045.jpg 215,143,326,269,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d046.jpg 65,4,111,71,1 130,34,172,91,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d047.jpg 88,35,283,193,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d048.jpg 60,1,150,108,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d049.jpg 22,1,113,88,1 62,44,193,193,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d050.jpg 86,5,151,81,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d052.jpg 172,65,342,324,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d053.jpg 124,23,211,133,1 331,24,409,127,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d054.jpg 25,27,280,425,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d055.jpg 169,28,353,287,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d056.jpg 26,32,195,222,1 214,16,338,172,1 344,58,499,247,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d058.jpg 76,25,508,576,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d061.jpg 166,21,451,386,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d063.jpg 154,12,366,288,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d064.jpg 253,4,372,138,1 225,134,448,306,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d065.jpg 174,21,357,231,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d066.jpg 165,7,336,226,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d067.jpg 66,150,159,272,1 128,188,276,392,1 321,200,459,370,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d068.jpg 90,10,303,290,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d069.jpg 48,11,175,210,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d071.jpg 49,116,126,244,1 192,59,285,178,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d072.jpg 47,116,127,238,1 195,59,277,184,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d073.jpg 98,35,210,197,1 205,57,278,231,1 274,38,362,231,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d074.jpg 218,74,381,272,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d075.jpg 38,11,356,327,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d076.jpg 206,80,270,163,1 292,59,377,155,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d078.jpg 204,74,256,139,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d081.jpg 69,4,196,91,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d082.jpg 2,255,62,402,0 44,117,204,335,1 167,64,367,349,1 337,173,474,382,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d083.jpg 23,7,352,339,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d084.jpg 188,101,264,198,1 280,121,345,201,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d088.jpg 45,24,140,111,1 134,70,199,157,1 255,53,309,139,1 345,53,393,136,1 368,34,466,141,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d089.jpg 279,126,339,218,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d091.jpg 333,69,428,183,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d092.jpg 189,25,242,104,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d094.jpg 4,84,128,218,1 200,69,319,199,1 372,97,500,249,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d095.jpg 195,54,364,323,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d096.jpg 84,4,285,271,1 357,1,533,253,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d097.jpg 329,81,413,175,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d098.jpg 6,131,236,421,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d099.jpg 58,57,228,273,1 252,6,432,198,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d100.jpg 108,16,193,118,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d101.jpg 163,20,289,197,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d102.jpg 63,22,511,573,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d105.jpg 155,125,211,186,1 266,102,308,160,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d106.jpg 238,36,394,239,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d107.jpg 73,73,130,155,1 180,53,243,133,1 262,36,355,161,1 400,41,499,175,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d109.jpg 90,184,177,301,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d110.jpg 125,33,302,252,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d111.jpg 53,18,167,160,1 230,18,339,161,1 416,4,516,147,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d112.jpg 7,7,183,222,1 282,29,465,265,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d113.jpg 202,95,262,160,1 376,106,434,171,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d116.jpg 39,186,76,237,1 164,179,208,238,1 227,174,260,225,1 317,166,348,227,1 380,181,422,239,1 452,192,483,241,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d117.jpg 93,18,200,157,1 174,6,280,166,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d118.jpg 91,7,217,154,1 178,6,284,144,1 261,19,339,144,1 372,49,495,257,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d120.jpg 407,90,465,174,1 408,16,460,109,1 465,28,524,117,1 507,57,554,132,1 507,4,554,37,1 456,118,520,203,1 525,117,554,229,1 289,46,337,129,1 313,100,366,193,1 318,7,366,86,1 360,46,408,126,1 365,127,420,225,1 188,1,240,55,1 190,76,240,151,1 232,59,283,136,1 234,1,282,38,1 240,127,308,233,1 6,61,68,148,1 10,1,63,45,1 74,45,123,121,1 97,14,150,88,1 138,59,194,132,1 32,120,87,214,1 96,118,147,201,1 156,127,208,223,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d121.jpg 336,117,403,196,1 341,180,427,268,1 393,165,457,255,1 402,113,448,190,1 445,131,500,215,1 433,227,500,327,1 372,28,419,91,1 423,5,466,55,1 432,73,482,139,1 226,111,292,183,1 244,204,315,293,1 263,163,335,240,1 269,95,320,177,1 304,60,352,120,1 225,6,266,67,1 270,10,306,76,1 75,150,138,237,1 99,238,162,328,1 123,158,188,242,1 145,78,192,151,1 170,226,247,324,1 177,113,235,189,1 192,35,231,93,1 107,35,149,93,1 2,92,50,161,1 6,163,86,267,1 33,56,87,111,1 57,31,105,78,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d122.jpg 0,118,135,355,1 47,22,262,266,1 194,6,381,228,1 333,13,448,215,1 409,3,500,241,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d123.jpg 404,69,472,154,1 412,139,499,239,1 455,58,521,136,1 460,131,538,219,1 501,22,568,96,1 520,88,585,175,1 509,195,585,300,1 271,57,337,148,1 289,168,371,266,1 310,130,404,212,1 323,45,382,126,1 351,4,412,72,1 115,203,197,299,1 138,119,220,216,1 160,31,221,100,1 202,199,290,299,1 212,68,273,144,1 1,40,56,112,1 7,117,90,216,1 46,7,101,60,1 85,103,158,194,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d124.jpg 62,94,139,200,1 205,103,270,209,1 249,51,310,135,1 400,91,470,195,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d125.jpg 39,2,119,104,1 144,5,191,76,1 184,12,236,97,1 254,49,278,81,1 259,71,284,110,1 293,59,317,104,1 325,83,342,112,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d127.jpg 236,116,315,250,1 241,5,310,89,1 307,39,356,105,1 350,58,400,123,1 313,113,398,251,1 2,52,71,228,1 43,3,117,61,1 68,92,171,233,1 119,6,171,84,1 160,101,240,235,1 161,1,220,69,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d128.jpg 47,43,202,223,1 442,70,499,181,1 277,125,349,208,1 226,59,289,134,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d129.jpg 47,101,99,166,1 121,86,178,151,1 237,93,281,154,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d130.jpg 63,2,140,143,1 237,38,316,153,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d132.jpg 381,82,447,164,0 91,117,133,171,1 129,97,167,149,1 259,99,316,164,1 319,103,352,157,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d133.jpg 104,144,222,302,1 252,69,372,210,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d134.jpg 175,92,247,201,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d135.jpg 2,4,197,187,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d137.jpg 41,70,201,231,1 167,2,342,194,1 337,74,482,243,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d139.jpg 88,46,163,101,1 196,68,250,130,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d140.jpg 124,60,219,170,1 270,25,375,142,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d141.jpg 28,42,88,97,1 155,27,199,86,1 201,29,250,102,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d143.jpg 34,7,140,136,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d144.jpg 19,19,193,152,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d145.jpg 4,89,60,159,1 98,40,181,120,1 200,49,272,129,1 359,67,429,138,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d146.jpg 39,21,487,526,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d147.jpg 130,12,230,164,1 392,71,462,192,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d148.jpg 11,17,233,326,1 249,11,477,356,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d149.jpg 12,49,207,312,1 254,26,477,353,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d153.jpg 188,5,344,194,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d154.jpg 0,9,135,190,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d155.jpg 410,31,478,160,0 23,19,87,102,1 114,9,180,96,1 176,10,226,89,1 231,19,289,104,1 297,14,355,89,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d156.jpg 26,100,121,199,1 169,110,245,222,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d157.jpg 119,54,233,164,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d158.jpg 5,4,500,619,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d160.jpg 67,9,334,277,1
+D:\source\keras-yolo3/VOCdevkit/VOC2020/JPEGImages/d90.jpg 174,35,344,256,1
